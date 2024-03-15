@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd09cfae-f004-486e-84d6-0b336fab2581" name="Changes" comment="Math is hard.">
+    <list default="true" id="cd09cfae-f004-486e-84d6-0b336fab2581" name="Changes" comment="Added variants of methods to try">
+      <change afterPath="$PROJECT_DIR$/PrimeTester/PrimalityTester.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimeTester/PrimeTester.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrimeTester/PrimeTester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/UnitTester.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/UnitTester.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -109,13 +110,22 @@
       <option name="project" value="LOCAL" />
       <updated>1710314132106</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added variants of methods to try">
+      <option name="closed" value="true" />
+      <created>1710534149154</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710534149154</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First try" />
     <MESSAGE value="I think smallest_r is working now." />
     <MESSAGE value="Math is hard." />
-    <option name="LAST_COMMIT_MESSAGE" value="Math is hard." />
+    <MESSAGE value="Added variants of methods to try" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added variants of methods to try" />
   </component>
 </project>
