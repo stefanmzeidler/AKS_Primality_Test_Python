@@ -13,7 +13,6 @@ class PrimalityTester:
         if not mp.isint(mp.mpf(n)):
             raise TypeError("Number is not an integer")
         self.__n = mp.mpf(n)
-        self.spy = self.SpyClass()
 
     def perfect_power(self):
         """ Checks whether n is a perfect power
@@ -35,6 +34,4 @@ class PrimalityTester:
             a = self.__gcd(a, b)
         return a
 
-    class SpyClass:
-        def gcd(self, a, b):
-            return _PrimalityTester.__gcd(self, a, b)
+

@@ -1,15 +1,20 @@
 import unittest
-
 import sympy
 from PrimeTester import PrimalityTester
 import math
-import mpmath
+import mpmath as mp
 
 
 class MyTestCase(unittest.TestCase):
     def test_perfect_power(self):
-        tester = PrimalityTester.PrimalityTester(100)
-        assertTrue(tester.__perfectPower)
+        n = mp.mpf(2.0)
+        count = 1
+        while count < 100:
+            tester = PrimalityTester.PrimalityTester(n)
+            self.assertTrue(tester.perfect_power())
+            n = mp.power(n, n)
+            count += 1
+
 
 
 
