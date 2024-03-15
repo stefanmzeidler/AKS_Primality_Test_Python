@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd09cfae-f004-486e-84d6-0b336fab2581" name="Changes" comment="I think smallest_r is working now.">
+    <list default="true" id="cd09cfae-f004-486e-84d6-0b336fab2581" name="Changes" comment="Math is hard.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrimeTester/PrimeTester.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrimeTester/PrimeTester.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTests/UnitTester.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/UnitTester.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,27 +22,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="stefanmzeidler &lt;szeidler@uwm.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dbuGbAwJ0yZr1UIIzVi2XR0JQL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in UnitTester.py.executor": "Run",
-    "Python.PrimeTester.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in UnitTester.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeTester.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\stefa\PycharmProjects\AKS_Primality_Test_Python" />
@@ -97,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710305900646</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Math is hard.">
+      <option name="closed" value="true" />
+      <created>1710314132106</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710314132106</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First try" />
     <MESSAGE value="I think smallest_r is working now." />
-    <option name="LAST_COMMIT_MESSAGE" value="I think smallest_r is working now." />
+    <MESSAGE value="Math is hard." />
+    <option name="LAST_COMMIT_MESSAGE" value="Math is hard." />
   </component>
 </project>
